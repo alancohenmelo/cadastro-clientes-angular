@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Macbook Pro",
+      "price": 1200
+    },
+    {
+      "name": "Veio do formulario",
+      "price": "9.99",
+      "id": 5
+    },
+    {
+      "name": "Bicicleta Barra Circular",
+      "price": "650",
+      "id": 7
+    },
+    {
+      "name": "PS5 plus",
+      "price": "6000.00",
+      "id": 8
+    },
+    {
+      "name": "opa alterado",
+      "price": "15",
+      "id": 9
+    },
+    {
+      "name": "df",
+      "price": "96",
+      "id": 10
+    }
+  ]
+}
